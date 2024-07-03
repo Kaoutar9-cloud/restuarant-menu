@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&family=Catamaran:wght@100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap'); 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Nunito", sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+    color: #16191E;
+    text-align: 50px;
+}
+.section-title{
+    text-align: center;
+    border: 20px;
+}
+.menu-column {
+    text-align: left;
+    margin-bottom: 80px;
+    margin-top: 20px;
+}
+
+.singl-menu {
+    text-transform: relative;
+    font-size: 15px;
+    position: auto;
+    display: center;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    display: right;
+}
+.menus{
+    display: auto;
+}
+
+img{
+    height: 250PX;
+    width: 250PX;
+}
+.carte{
+    background-color: #820709;
+    border: 1px solid #820709;
+    border-radius: 10px;
+    width: 250px; 
+    text-align: center; 
+    margin: 50px;
+}
+
+.menu-column{
+    display: center;
+    margin: auto;
+
+}
+.singl-menu img{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    display: center;
+}
+.menu-content{
+    padding: 10px;
+    margin-top: 10px;
+}
